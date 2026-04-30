@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.env
+# Virtual environment
+.venv/
+rag_files/
+build_faiss_index.py
+build_olist_db
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/
+# PyCharm
+.idea/
