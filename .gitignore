@@ -6,7 +6,7 @@ __pycache__/
 .venv/
 rag_files/
 build_faiss_index.py
-build_olist_db
+build_olist_db.py
 # Streamlit
 .streamlit/secrets.toml
 .streamlit/
