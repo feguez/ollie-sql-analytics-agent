@@ -1,6 +1,9 @@
-streamlit
-langchain
-langchain-openai
-langchain-community
-faiss-cpu
-pandas
+streamlit==1.55.0
+langchain==1.2.15
+langchain-openai==1.1.15
+langchain-community==0.4.1
+langchain-text-splitters==1.1.2
+faiss-cpu==1.13.2
+pandas==2.3.3
+python-dotenv==1.2.2
+pypdf==6.10.2
