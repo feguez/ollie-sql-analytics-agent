@@ -45,6 +45,20 @@ Users can ask Ollie questions such as:
 
 ---
 
+## Demo
+
+### Ollie Interface
+
+![Ollie Analytics Assistant interface](images/ollie_home.png)
+
+### Revenue Analysis
+![Ollie revenue analysis](images/ollie_revenue_analysis.png)
+
+### Repeat Purchase Analysis
+![Ollie repeat purchase analysis](images/ollie_repeat_purchase.png)
+
+---
+
 ## Tech Stack
 
 - Python
@@ -166,4 +180,4 @@ Run the Streamlit application:
 streamlit run app.py
 ```
 
-Local development uses an OPENAI_API_KEY environment variable. The deployed Streamlit application uses Streamlit Secrets so API credentials are not stored in the repository.
+Local development uses an `OPENAI_API_KEY` environment variable. The deployed Streamlit application uses Streamlit Secrets so API credentials are not stored in the repository.
